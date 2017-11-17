@@ -3,12 +3,11 @@ li a {
 }
 
 html {
-  background: url(https://cmi.epfl.ch/photogallery/picture_month/img/Apr2017.jpg) no-repeat center center fixed;
+
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
   background-size: contain;
-  background-color: black;
 }
 
 section {
