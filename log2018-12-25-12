@@ -1,0 +1,7 @@
+2018-12-25T17:01:36+00:00 WRF cycle launched
+2018-12-25T17:01:37+00:00 end of erase.sh
+2018-12-25T17:38:23+00:00 end of download.sh
+2018-12-25T17:38:23+00:00 end of update.sh
+2018-12-25T17:43:59+00:00 end of WPSprocess.sh
+2018-12-25T17:44:13+00:00 end of WRFprocess.sh
+2018-12-25T17:45:27+00:00 end of postprocess.sh
